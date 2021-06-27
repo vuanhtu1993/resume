@@ -190,7 +190,7 @@
 [data-entity][data-entity="person"] {
   background: rgba(45, 226, 217, 0);
   border-color: rgb(45, 226, 141);
-  color: rgb(255, 255, 255);
+  /*color: rgb(255, 255, 255);*/
 }
 
 [data-entity][data-entity="person"]::after {

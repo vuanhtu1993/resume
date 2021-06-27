@@ -3,6 +3,7 @@ export const blackTheme = {
   text: "#ffffff",
   blue: "#1179f7",
   orange: "#ffa500",
+  pink: "#e4405f",
 };
 
 export const lightTheme = {
@@ -10,6 +11,7 @@ export const lightTheme = {
   text: "#000000",
   blue: "#1179f7",
   orange: "#ffa500",
+  pink: "#e4405f",
 };
 
 export const chosenTheme = lightTheme;

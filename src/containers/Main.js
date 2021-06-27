@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Route, Switch, Router } from "react-router-dom";
+import { withTheme } from "styled-components";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/EduEx/EducationComponent";
@@ -15,7 +16,7 @@ history.listen((location) => {
   console.log(location.pathname);
 });
 
-export default class Main extends Component {
+class Main extends Component {
   render() {
     if (settings.isSplash) {
       return (
@@ -100,3 +101,5 @@ export default class Main extends Component {
     }
   }
 }
+
+export default withTheme(Main);

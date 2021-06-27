@@ -16,10 +16,10 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Namaste!",
+  title: "Hallo!",
   sub: "Vũ Anh Tú",
   logo_name: "Anhhtus",
-  resumeLink: "",
+  resumeLink: "https://vuanhtu1993.github.io/blog",
 };
 
 // home logos
