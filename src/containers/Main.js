@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import { Route, Switch, Router } from "react-router-dom";
 import { withTheme } from "styled-components";
 import Home from "../pages/home/HomeComponent";
-import Splash from "../pages/splash/Splash";
+// import Splash from "../pages/splash/Splash";
 import Education from "../pages/EduEx/EducationComponent";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
-import { settings } from "../portfolio.js";
+// import { settings } from "../portfolio.js";
 import { createBrowserHistory } from "history";
 
 import ReactGA from "react-ga";
