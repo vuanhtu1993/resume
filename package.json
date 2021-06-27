@@ -2,7 +2,6 @@
   "private": true,
   "name": "resume",
   "version": "0.1.0",
-  "homepage": "https://vuanhtu1993.github.io/resume",
   "scripts": {
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
