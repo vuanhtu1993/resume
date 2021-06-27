@@ -5,7 +5,6 @@
   "homepage": "https://vuanhtu1993.github.io/resume",
   "scripts": {
     "build": "react-scripts build",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",

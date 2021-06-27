@@ -199,7 +199,7 @@
 }
 
 [data-entity][data-entity="skill"] {
-  background: rgb(187, 47, 117, 0.2);
+  background: rgba(187, 47, 117, 0.2);
   border-color: rgb(187, 47, 117);
   color: rgb(255, 255, 255);
 }
