@@ -4,21 +4,21 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Rohan Kokkula | Portfolio",
+  title: "Vũ Anh Tú | Portfolio",
   description:
     "A Data Science practitioner who thrives to leverage startups with AI based solutions with a blend of UI/UX",
   og: {
-    title: "Rohan Portfolio",
+    title: "Anhhtus Portfolio",
     type: "website",
-    url: "http://rohankokkula.ml/",
+    url: "http://vuanhtu1993.github.io/blog",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Namaste!",
-  sub: "Rohan Kokkula",
-  logo_name: "Rohan Kokkula",
+  sub: "Vũ Anh Tú",
+  logo_name: "Anhhtus",
   resumeLink: "",
 };
 
@@ -31,7 +31,7 @@ const competitiveSites = {
       style: {
         color: "white",
       },
-      profileLink: "https://github.com/rohankokkula",
+      profileLink: "https://github.com/vuanhtu1993",
     },
     {
       siteName: "HackerRank",
