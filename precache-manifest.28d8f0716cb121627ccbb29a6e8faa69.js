@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff90b6f3b5d37930a91e9df64bfad265",
+    "revision": "ad596e814a9fd23b669f9c9dfd0954e4",
     "url": "/vuanhtu1993/resume/index.html"
   },
   {
-    "revision": "c2bd4d1dc3d6a69eb186",
+    "revision": "754bcec450ebffb7518f",
     "url": "/vuanhtu1993/resume/static/css/main.c1c50b3b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vuanhtu1993/resume/static/js/2.4ec9e4a9.chunk.js"
   },
   {
-    "revision": "c2bd4d1dc3d6a69eb186",
-    "url": "/vuanhtu1993/resume/static/js/main.3cb4296f.chunk.js"
+    "revision": "754bcec450ebffb7518f",
+    "url": "/vuanhtu1993/resume/static/js/main.1a6c9acf.chunk.js"
   },
   {
     "revision": "8d2b063acdec4ce71065",
